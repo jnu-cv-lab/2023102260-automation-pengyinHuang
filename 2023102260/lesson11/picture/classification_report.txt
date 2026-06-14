@@ -1,0 +1,12 @@
+                   precision    recall  f1-score   support
+
+   forehand_drive       0.73      0.69      0.71        32
+    forehand_lift       0.62      0.66      0.64        35
+forehand_net_shot       0.73      0.38      0.50        21
+   forehand_clear       0.74      0.58      0.65        24
+   backhand_drive       0.63      0.55      0.59        22
+backhand_net_shot       0.52      0.79      0.63        34
+
+         accuracy                           0.63       168
+        macro avg       0.66      0.61      0.62       168
+     weighted avg       0.65      0.63      0.63       168
